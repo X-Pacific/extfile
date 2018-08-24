@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/extfile.iml" filepath="$PROJECT_DIR$/extfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../job-excutor/job-excutor.iml" filepath="$PROJECT_DIR$/../job-excutor/job-excutor.iml" />
+    </modules>
+  </component>
+</project>
